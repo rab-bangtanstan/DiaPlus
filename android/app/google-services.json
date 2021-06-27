@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "381301175830",
+    "project_id": "diabetes-4d2df",
+    "storage_bucket": "diabetes-4d2df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381301175830:android:1a111616597621c97f6737",
+        "android_client_info": {
+          "package_name": "com.example.flutter_auths"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381301175830-ag9ca1t0jgpnoiipt4av2hc2hn3rahh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD7zNMUpJEEovYXoLpbLWXPudg2kKmaEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381301175830-ag9ca1t0jgpnoiipt4av2hc2hn3rahh4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
