@@ -1,3 +1,7 @@
+![Screenshot_20210627_152355_com example travel_app](https://user-images.githubusercontent.com/68557893/123541639-29ec0580-d763-11eb-8d98-b142fbe39bc3.jpg)
+![Screenshot_20210627_154720_com huawei himovie overseas](https://user-images.githubusercontent.com/68557893/123541650-353f3100-d763-11eb-97cc-113ab7e75b1d.jpg)
+![Screenshot_20210627_154841_com huawei himovie overseas](https://user-images.githubusercontent.com/68557893/123541655-3cfed580-d763-11eb-8c65-25a7b2239ef3.jpg)
+![Screenshot_20210627_154658_com example travel_app](https://user-images.githubusercontent.com/68557893/123541662-44be7a00-d763-11eb-9fcf-63b8fba8bbd9.jpg)
 # DiaPlus - a personal glucose level tracker app 
 
 Diaplus app helps the user to record their blood glucose level at different times of a day. The user can also access various diabetic related supplies.
