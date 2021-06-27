@@ -1,6 +1,8 @@
-# DiaPlus - a personal glucose level tracker app which helps the user to record their blood glucose level at different times of a day. The user can also access various diabetic related supplies.
+# DiaPlus - a personal glucose level tracker app 
 
+Diaplus app helps the user to record their blood glucose level at different times of a day. The user can also access various diabetic related supplies.
 Developed using Flutter and Firebase
+
 
 ## Description
 
